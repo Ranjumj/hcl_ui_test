@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T04:37:45.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="bJZoPkQWWulRu2b2OwtD" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T05:56:49.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="u_W7YGaN2SkKMWEjwbi-" version="14.6.3" type="github">
   <diagram id="zx2tIlp7ZkbmtfwbzRPO" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="425" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hEISInPQRgZ5dUjzCxsK-23" value="Bot Registered In Active Directory&amp;nbsp;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;fontStyle=1" parent="hEISInPQRgZ5dUjzCxsK-22" connectable="0" vertex="1">
+        <mxCell id="hEISInPQRgZ5dUjzCxsK-23" value="Bot Registered In Active Directory (App Registration)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;fontStyle=1" parent="hEISInPQRgZ5dUjzCxsK-22" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hEISInPQRgZ5dUjzCxsK-24" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC6600;strokeWidth=2;" parent="1" source="hEISInPQRgZ5dUjzCxsK-4" target="hEISInPQRgZ5dUjzCxsK-2" edge="1">
